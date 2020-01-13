@@ -1,10 +1,12 @@
 # 👋 Hi, Selamat Datang Code Warrior!
 
+![JavaScript Animation](source/images/header.gif)
+
 > Sebelum kalian mengikuti tutorial JavaSript Basic, Ada baiknya kalian membaca README ini terlebih dahulu.
 Tujuannya agar kalian lebih mudah untuk memahami seri tutorial ini. Ok, Mari kita mulai! 👏
 
-Tutorial ini adalah seri berurutan belajar bahasa pemrograman JavaScript. Seperti pada judul tutorial 
-(JavaScript **Basic**), seri ini dikhususkan untuk pemula atau yang sudah/sedang belajar bahasa pemrograman JavaScript namun 
+Tutorial ini adalah seri berurutan belajar bahasa pemrograman JavaScript. Seperti pada judul tutorial
+(JavaScript **Basic**), seri ini dikhususkan untuk pemula atau yang sudah/sedang belajar bahasa pemrograman JavaScript namun
 sulit untuk memahaminya. Nah, harapannya setelah membaca tutorial ini kalian bisa memahami bahasa pemrograman JavaScript lebih baik lagi 😄.
 
 ## ❓ Tentang
@@ -15,7 +17,7 @@ Seri ini disusun berdasarkan **chapter-chapter**🚩 dimana setiap chapter hanya
 dan mudah memahaminya.
 
 Bahasa pemrograman JavaScript berfisat sangat fleksibel yang artinya kita bisa membuat banyak hal dengan JavaScript seperti
-website, aplikasi desktop, game, aplikasi hp (Android / iOS). Oleh karena itu pada seri ini kita akan belajar bahasa pemrograman JavaScript secara 
+website, aplikasi desktop, game, aplikasi hp (Android / iOS). Oleh karena itu pada seri ini kita akan belajar bahasa pemrograman JavaScript secara
 universal (umum).
 
 Nah, jika kalian merasa sudah bisa memahami JavaScript basic, maka kalian bisa lanjut belajar ketahap selanjutnya.
@@ -66,8 +68,9 @@ Jika kalian suka atau ingin mensupport repositori ini agar bisa berkembang lagi,
 ## ⚗️ Sumber
 1. [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 2. [w3schools](https://www.w3schools.com/js/default.asp)
-3. ...
-4. _will be added soon_
+3. [JavaSript info](https://javascript.info/)
+4. ...
+5. _will be added soon_
 
 > "We love being able to share our knowledge with others. Because programming is not just for running code and fixing errors."
 >@pythonic.js
